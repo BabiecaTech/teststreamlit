@@ -1,2 +1,3 @@
 #pip install streamlit
-streamlit hello
+#streamlit hello
+st.write(""Hello World"")
